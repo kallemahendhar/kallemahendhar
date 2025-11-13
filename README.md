@@ -10,4 +10,4 @@
 📜 Certified in Google Cloud Computing, Python, Data Science, and NLP.  
 🚀 Constantly learning, innovating, and solving real-world problems with AI.  
 
-🔗 [LinkedIn](https://linkedin.com/in/mahendhar-kallem-06799b2ba) | [Portfolio](#) | [Email](mailto:kallemahendhar1311@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/mahendhar-kallem-06799b2ba) | [Email](mailto:kallemahendhar1311@gmail.com)
