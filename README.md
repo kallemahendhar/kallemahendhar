@@ -7,7 +7,6 @@ I'm passionate about building AI-powered projects, solving complex DSA problems,
 ---
 
 ## 🏆 Achievements & Extracurricular
-- 🥇 Recognized in **AI-Hackathon at Zignasa**  
 - 💻 Solved **250+ problems across all DSA platforms**  
 - 🎓 Attended **Gen-AI workshop** and gained insights from creative professionals  
 - 📜 NPTEL Certified in **Google Cloud Computing**  
