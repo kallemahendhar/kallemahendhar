@@ -35,9 +35,17 @@ I'm passionate about building AI-powered projects, solving complex DSA problems,
 
 ---
 
-## 📈 GitHub Stats
-![Mahendhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallemahendhar&show_icons=true&theme=radical)
+## 📈 GitHub Stats & Animations
+
+### Dynamic GitHub Stats
+![Mahendhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallemahendhar&show_icons=true&theme=radical&count_private=true&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallemahendhar&layout=compact&theme=radical)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kallemahendhar&theme=radical)
+
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kallemahendhar&theme=react-dark&area=true)
 
 ---
 
@@ -51,7 +59,7 @@ I'm passionate about building AI-powered projects, solving complex DSA problems,
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallemahendhar/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallemahendhar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kallemahendhar1311@gmail.com)  
 
 ---
 
