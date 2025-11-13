@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahendhar Kallem
 
-<!--
-**kallemahendhar/kallemahendhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) student at MLR Institute of Technology, passionate about building intelligent systems.
 
-Here are some ideas to get you started:
+💡 Skilled in **Python, Java, Data Structures, Machine Learning, and AI**.  
+🧠 Projects:  
+- Real-Time Fire Detection using **YOLOv8 & OpenCV**  
+- Movie Recommendation System using **Machine Learning & Streamlit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certified in Google Cloud Computing, Python, Data Science, and NLP.  
+🚀 Constantly learning, innovating, and solving real-world problems with AI.  
+
+🔗 [LinkedIn](https://linkedin.com/in/mahendhar-kallem-06799b2ba) | [Portfolio](#) | [Email](mailto:kallemahendhar1311@gmail.com)
